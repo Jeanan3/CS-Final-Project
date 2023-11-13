@@ -6,8 +6,8 @@ We are determining the best neighborhood in Pittsburgh based off of creativity, 
 ### Team Name:  
   
 ### Team Members:  
-Josh Paulovich -- jop134@pitt.edu
-Jeana Nsoga -- jpn27@pitt.edu
+Josh Paulovich -- jop134@pitt.edu  
+Jeana Nsoga -- jpn27@pitt.edu  
   
   
 ### Description: 
