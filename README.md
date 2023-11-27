@@ -3,11 +3,13 @@
 ## Overview:  
 We are determining the best neighborhood in Pittsburgh based off of creativity, using datasets from https://data.wprdc.org/.  
   
-### Team Name:  
+### Team Name:
+Team Creativity
   
 ### Team Members:  
 Josh Paulovich -- jop134@pitt.edu  
 Jeana Nsoga -- jpn27@pitt.edu  
+Amyia Singh -- ams878@pitt.edu
   
   
 ### Description: 
