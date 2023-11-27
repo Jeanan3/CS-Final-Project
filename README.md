@@ -18,5 +18,6 @@ Amyia Singh -- ams878@pitt.edu
   2. This dataset shows the amount of public art in Pittsburgh nieghborhoods. The neighborhood with the most public art will determine which is the best. We believe the greater the amount of creatiby in a neighborhood the better it is, public art being a way of displaying creativity within a neighborhood.
 (https://data.wprdc.org/dataset/city-of-pittsburgh-public-art)
 
-  3.   
+  3. This dataset displays the number of courts and rinks in a neighborhood located in Pittsburgh. Due to physical exercise stimulating one's mind and creativity, we believe that the more amount of courts and rinks present establishes which neighborhood is the best. (https://data.wprdc.org/dataset/city-of-pittsburgh-courts)
+
 
